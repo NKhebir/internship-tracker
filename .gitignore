@@ -1,0 +1,7 @@
+# That's the don't-upload list. 
+# Your .venv folder is hundreds of megabytes of downloaded add-ons that don't belong online, and .
+# DS_Store is invisible Mac clutter. 
+# Without this file you'd upload all of it.
+.venv/
+__pycache__/
+.DS_Store

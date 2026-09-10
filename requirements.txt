@@ -1,0 +1,8 @@
+
+# Shopping list for the hosting computer.
+# The app runs on this Mac because Streamlit is installed here.
+# The hosting machine starts with nothing — it reads this file to know what to install.
+# Every add-on added later needs its name in here too.
+# Forgetting that is the most common reason a deployed app breaks.
+
+streamlit
